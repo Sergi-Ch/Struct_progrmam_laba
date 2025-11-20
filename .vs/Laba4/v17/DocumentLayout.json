@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Prog_for_Prog\\proects\\Struct_progrmam_laba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65D6AF27-E37A-4976-98DD-F37E65DC9A79}|Laba_four\\Laba_four.vcxproj|D:\\Prog_for_Prog\\proects\\Struct_progrmam_laba\\Laba_four\\Laba_four.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65D6AF27-E37A-4976-98DD-F37E65DC9A79}|Laba_four\\Laba_four.vcxproj|solutionrelative:Laba_four\\Laba_four.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7FBE5B-289E-4DA5-865E-013013DB2940}|Laba3\\Laba3.vcxproj|D:\\Prog_for_Prog\\proects\\Struct_progrmam_laba\\Laba3\\Laba3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A7FBE5B-289E-4DA5-865E-013013DB2940}|Laba3\\Laba3.vcxproj|solutionrelative:Laba3\\Laba3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58CD80B-8E39-4896-89AF-EDAFD8441315}|Laba2\\Laba2.vcxproj|D:\\Prog_for_Prog\\proects\\Struct_progrmam_laba\\Laba2\\Laba2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C58CD80B-8E39-4896-89AF-EDAFD8441315}|Laba2\\Laba2.vcxproj|solutionrelative:Laba2\\Laba2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2BE3A4-943A-4A5A-BFC0-53D4FAC30D2E}|Laba1\\Laba1.vcxproj|D:\\Prog_for_Prog\\proects\\Struct_progrmam_laba\\Laba1\\Laba1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F2BE3A4-943A-4A5A-BFC0-53D4FAC30D2E}|Laba1\\Laba1.vcxproj|solutionrelative:Laba1\\Laba1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 807,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Laba1.cpp",
+              "DocumentMoniker": "D:\\Prog_for_Prog\\proects\\Struct_progrmam_laba\\Laba1\\Laba1.cpp",
+              "RelativeDocumentMoniker": "Laba1\\Laba1.cpp",
+              "ToolTip": "D:\\Prog_for_Prog\\proects\\Struct_progrmam_laba\\Laba1\\Laba1.cpp",
+              "RelativeToolTip": "Laba1\\Laba1.cpp",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAmwLAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T21:08:37.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Laba2.cpp",
+              "DocumentMoniker": "D:\\Prog_for_Prog\\proects\\Struct_progrmam_laba\\Laba2\\Laba2.cpp",
+              "RelativeDocumentMoniker": "Laba2\\Laba2.cpp",
+              "ToolTip": "D:\\Prog_for_Prog\\proects\\Struct_progrmam_laba\\Laba2\\Laba2.cpp",
+              "RelativeToolTip": "Laba2\\Laba2.cpp",
+              "ViewState": "AQIAADoAAAAAAAAAAAAmwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T21:09:14.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laba3.cpp",
+              "DocumentMoniker": "D:\\Prog_for_Prog\\proects\\Struct_progrmam_laba\\Laba3\\Laba3.cpp",
+              "RelativeDocumentMoniker": "Laba3\\Laba3.cpp",
+              "ToolTip": "D:\\Prog_for_Prog\\proects\\Struct_progrmam_laba\\Laba3\\Laba3.cpp",
+              "RelativeToolTip": "Laba3\\Laba3.cpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAmwDYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T21:10:02.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laba_four.cpp",
+              "DocumentMoniker": "D:\\Prog_for_Prog\\proects\\Struct_progrmam_laba\\Laba_four\\Laba_four.cpp",
+              "RelativeDocumentMoniker": "Laba_four\\Laba_four.cpp",
+              "ToolTip": "D:\\Prog_for_Prog\\proects\\Struct_progrmam_laba\\Laba_four\\Laba_four.cpp",
+              "RelativeToolTip": "Laba_four\\Laba_four.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwEsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T21:10:29.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 377,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

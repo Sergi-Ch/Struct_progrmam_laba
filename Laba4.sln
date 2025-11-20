@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba4", "Struct_progrmam_laba\Struct_progrmam_laba.vcxproj", "{FBBC8755-161A-4969-B5C7-213293DB7185}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba1", "Laba1\Laba1.vcxproj", "{6F2BE3A4-943A-4A5A-BFC0-53D4FAC30D2E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba2", "Laba2\Laba2.vcxproj", "{C58CD80B-8E39-4896-89AF-EDAFD8441315}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba3", "Laba3\Laba3.vcxproj", "{6A7FBE5B-289E-4DA5-865E-013013DB2940}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba_four", "Laba_four\Laba_four.vcxproj", "{65D6AF27-E37A-4976-98DD-F37E65DC9A79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,14 +19,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FBBC8755-161A-4969-B5C7-213293DB7185}.Debug|x64.ActiveCfg = Debug|x64
-		{FBBC8755-161A-4969-B5C7-213293DB7185}.Debug|x64.Build.0 = Debug|x64
-		{FBBC8755-161A-4969-B5C7-213293DB7185}.Debug|x86.ActiveCfg = Debug|Win32
-		{FBBC8755-161A-4969-B5C7-213293DB7185}.Debug|x86.Build.0 = Debug|Win32
-		{FBBC8755-161A-4969-B5C7-213293DB7185}.Release|x64.ActiveCfg = Release|x64
-		{FBBC8755-161A-4969-B5C7-213293DB7185}.Release|x64.Build.0 = Release|x64
-		{FBBC8755-161A-4969-B5C7-213293DB7185}.Release|x86.ActiveCfg = Release|Win32
-		{FBBC8755-161A-4969-B5C7-213293DB7185}.Release|x86.Build.0 = Release|Win32
 		{6F2BE3A4-943A-4A5A-BFC0-53D4FAC30D2E}.Debug|x64.ActiveCfg = Debug|x64
 		{6F2BE3A4-943A-4A5A-BFC0-53D4FAC30D2E}.Debug|x64.Build.0 = Debug|x64
 		{6F2BE3A4-943A-4A5A-BFC0-53D4FAC30D2E}.Debug|x86.ActiveCfg = Debug|Win32
@@ -31,6 +27,30 @@ Global
 		{6F2BE3A4-943A-4A5A-BFC0-53D4FAC30D2E}.Release|x64.Build.0 = Release|x64
 		{6F2BE3A4-943A-4A5A-BFC0-53D4FAC30D2E}.Release|x86.ActiveCfg = Release|Win32
 		{6F2BE3A4-943A-4A5A-BFC0-53D4FAC30D2E}.Release|x86.Build.0 = Release|Win32
+		{C58CD80B-8E39-4896-89AF-EDAFD8441315}.Debug|x64.ActiveCfg = Debug|x64
+		{C58CD80B-8E39-4896-89AF-EDAFD8441315}.Debug|x64.Build.0 = Debug|x64
+		{C58CD80B-8E39-4896-89AF-EDAFD8441315}.Debug|x86.ActiveCfg = Debug|Win32
+		{C58CD80B-8E39-4896-89AF-EDAFD8441315}.Debug|x86.Build.0 = Debug|Win32
+		{C58CD80B-8E39-4896-89AF-EDAFD8441315}.Release|x64.ActiveCfg = Release|x64
+		{C58CD80B-8E39-4896-89AF-EDAFD8441315}.Release|x64.Build.0 = Release|x64
+		{C58CD80B-8E39-4896-89AF-EDAFD8441315}.Release|x86.ActiveCfg = Release|Win32
+		{C58CD80B-8E39-4896-89AF-EDAFD8441315}.Release|x86.Build.0 = Release|Win32
+		{6A7FBE5B-289E-4DA5-865E-013013DB2940}.Debug|x64.ActiveCfg = Debug|x64
+		{6A7FBE5B-289E-4DA5-865E-013013DB2940}.Debug|x64.Build.0 = Debug|x64
+		{6A7FBE5B-289E-4DA5-865E-013013DB2940}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A7FBE5B-289E-4DA5-865E-013013DB2940}.Debug|x86.Build.0 = Debug|Win32
+		{6A7FBE5B-289E-4DA5-865E-013013DB2940}.Release|x64.ActiveCfg = Release|x64
+		{6A7FBE5B-289E-4DA5-865E-013013DB2940}.Release|x64.Build.0 = Release|x64
+		{6A7FBE5B-289E-4DA5-865E-013013DB2940}.Release|x86.ActiveCfg = Release|Win32
+		{6A7FBE5B-289E-4DA5-865E-013013DB2940}.Release|x86.Build.0 = Release|Win32
+		{65D6AF27-E37A-4976-98DD-F37E65DC9A79}.Debug|x64.ActiveCfg = Debug|x64
+		{65D6AF27-E37A-4976-98DD-F37E65DC9A79}.Debug|x64.Build.0 = Debug|x64
+		{65D6AF27-E37A-4976-98DD-F37E65DC9A79}.Debug|x86.ActiveCfg = Debug|Win32
+		{65D6AF27-E37A-4976-98DD-F37E65DC9A79}.Debug|x86.Build.0 = Debug|Win32
+		{65D6AF27-E37A-4976-98DD-F37E65DC9A79}.Release|x64.ActiveCfg = Release|x64
+		{65D6AF27-E37A-4976-98DD-F37E65DC9A79}.Release|x64.Build.0 = Release|x64
+		{65D6AF27-E37A-4976-98DD-F37E65DC9A79}.Release|x86.ActiveCfg = Release|Win32
+		{65D6AF27-E37A-4976-98DD-F37E65DC9A79}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

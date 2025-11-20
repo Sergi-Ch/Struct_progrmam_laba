@@ -1,0 +1,2 @@
+﻿test2.obj : error LNK2005: main уже определен в Struct_progrmam_laba.obj
+D:\Prog_for_Prog\proects\Struct_progrmam_laba\x64\Debug\Struct_progrmam_laba.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
